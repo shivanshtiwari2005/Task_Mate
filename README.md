@@ -1,16 +1,37 @@
-# task_management
+# 📋 TaskMate - Your Personal Task Manager
 
-A new Flutter project.
+## 🚀 Features
 
-## Getting Started
+- ✅ Add, edit, and delete tasks
+- ⏰ Set due date and time for tasks
+- 📦 Local storage using Hive (No internet required)
+- 🌙 Light/Dark Mode toggle
+- 📂 View all, pending, and completed tasks
+- 🔔 Mark tasks as completed
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Setup Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter SDK installed: [Flutter installation guide](https://docs.flutter.dev/get-started/install)
+- Dart SDK (comes with Flutter)
+- Android Studio / VS Code
+- Hive installed locally via dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+State Management
+TaskMate use Provider State Management
+
+
+ Bonus Features
+🎨 Light/Dark Mode toggle
+
+🧠 Local notification-ready structure
+
+🕒 Date & Time picker integration
+
+📱 Fully responsive layout for different screen sizes
+
+### Clone the repository
+```bash
+https://github.com/shivanshtiwari2005/Task_Mate
+cd taskmate
