@@ -31,6 +31,19 @@ TaskMate use Provider State Management
 
 📱 Fully responsive layout for different screen sizes
 
+* Integrate with a fake REST API like [JSONPlaceholder]   (https://jsonplaceholder.typicode.com/) for initial task list
+* Implement filtering (All / Completed / Pending)
+
+
+Features:
+
+* Add a task (title, description, due date)
+* View list of tasks (grouped by status: pending, completed)
+* Mark task as complete/incomplete
+* Delete a task
+* Persist data locally (using sqflite, hive, or shared_preferences)
+* Basic form validation
+
 ### Clone the repository
 ```bash
 https://github.com/shivanshtiwari2005/Task_Mate
