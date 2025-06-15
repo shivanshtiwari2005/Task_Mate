@@ -26,6 +26,7 @@ TaskMate use Provider State Management
 
 
  Bonus Features
+ 
 🎨 Light/Dark Mode toggle
 
 🧠 Local notification-ready structure
